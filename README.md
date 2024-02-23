@@ -13,3 +13,6 @@ O código foi desenvolvido no Visual Studio Code e testado no SimulIDE.
 
 - Resetar: O botão B2 é utilizado para resetar o cronômetro. Esse botão só tem efeito quando o cronômetro está pausado.
 
+ ![Imagem do Cronômetro](https://github.com/MykellyBarros/Cronometro-/blob/main/cronometrobaixon%C3%ADvel.png)
+
+
