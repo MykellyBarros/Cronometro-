@@ -1,19 +1,15 @@
-> ### Projeto de Cronômetro com Display Nokia 5110 para AVR
-Este projeto consiste em um cronômetro implementado em um microcontrolador AVR, utilizando a linguagem de programação C
-O código foi desenvolvido no Visual Studio Code e testado no SimulIDE.
+<h1 style="color: blue;">Dashboard em PowerBI de Vítimas de Acidentes de Trânsito</h1>
 
-> # Componentes Utilizados
-- Microcontrolador AVR (neste caso, consideramos um AVR com suporte a interrupções e Timer/Counter1)
-- Display Nokia 5110
-- Dois botões (B1 e B2)
-- Biblioteca Nokia5110 para controle do display
+<p style="color: green;">Este trabalho consistia na construção de uma solução de BI (Inteligência de Negócio) a partir de dados coletados de uma fonte de dados abertos (open data). A fonte de dados é uma amostra dos conjuntos de dados de acidentes de trânsito.</p>
 
-# Funcionalidades
-- Iniciar/Pausar: O botão B1 é utilizado para iniciar ou pausar o cronômetro. Quando o cronômetro está em execução, um triângulo aponta para a direita. Quando pausado, o triângulo aponta para a esquerda.
+<h3 style="color: red;">Requisitos:</h3>
 
-- Resetar: O botão B2 é utilizado para resetar o cronômetro. Esse botão só tem efeito quando o cronômetro está pausado.
+<p style="color: purple;">O dashboard deve conter as seguintes visualizações:</p>
+<!-- ... o resto do seu conteúdo HTML ... -->
 
-# Resultado Final
- ![Imagem do Cronômetro](https://github.com/MykellyBarros/Cronometro-/blob/main/cronometrobaixon%C3%ADvel.png)
+<h3 style="color: orange;">Resultado final:</h3>
+
+<p style="color: brown;"><img src="dashboard.png" alt="Dashboard" style="width: 100%;"></p>
+
 
 
